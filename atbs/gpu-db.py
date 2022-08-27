@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import bs4
+from selenium.webdriver.common.action_chains import ActionChains
 
 browser = webdriver.Firefox()
 
@@ -52,27 +53,54 @@ elementSearch = browser.find_element(By.ID, 'gh-search-input')
 elementSearch.send_keys('graphics card')
 
 elementSearch.submit()
+time.sleep(3)
 
-time.sleep(5)
+while True:
+	try:
+		elementNext = browser.find_element(By.CLASS_NAME, 'sku-list-page-next')
+	except:
+		break
 
-listEntries = browser.find_elements(By.CLASS_NAME, "sku-item")
-elementPrice = browser.find_elements(By.XPATH, "//div[@class='priceView-hero-price priceView-customer-price']//span[1]")
+#try:
+#elementNext = browser.find_element(By.CLASS_NAME, 'sku-list-page-next')
+#except:
+#break
+#elementNext.click()
+	time.sleep(5)
 
+	try:
+		listEntries = browser.find_elements(By.CLASS_NAME, "sku-item")
+		elementPrice = browser.find_elements(By.XPATH, "//div[@class='priceView-hero-price priceView-customer-price']//span[1]")
+	
 
-for i in range(len(listEntries)):
+		for i in range(len(listEntries)):
 
 #	elementName = listEntries[i].find_element(By.XPATH, "//h4[@class='sku-title']//a[1]")
-	elementName = listEntries[i].find_element(By.CLASS_NAME, "sku-title")
-	elementName = elementName.find_element(By.XPATH, "a[1]")
+			elementName = listEntries[i].find_element(By.CLASS_NAME, "sku-title")
+			elementName = elementName.find_element(By.XPATH, "a[1]")
 
-	print("piping data")
+			print("piping data")
 
-	print(elementName.text)
+			print(elementName.text)
 
 #	elementPrice = listEntries[i].find_element(By.XPATH, "div[@class='priceView-hero-price priceView-customer-price']//span[1]")
 
-	print(elementPrice[i].text)
+			print(elementPrice[i].text)
+		try:
+			elementNext = browser.find_element(By.CLASS_NAME, 'sku-list-page-next')
+		#actions = ActionChains(browser)
+		#print("Made action chain")
+		#actions.move_to_element(elementNext).perform()
+		#print("Scrolled to element")
+			browser.execute_script("arguments[0].scrollIntoView();", elementNext)
+			time.sleep(1.5)
+			elementNext.click()
+		except:
+			break
+	except:
+		break
 
+print ("end signal")
 print ("end signal")
 
 browser.close()
