@@ -5631,3 +5631,911 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662706725285	geckodriver	INFO	Listening on 127.0.0.1:58615
+1662706725802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7t6FOV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706726085	Marionette	INFO	Marionette enabled
+1662706726087	Marionette	INFO	Listening on port 38661
+WebDriver BiDi listening on ws://localhost:59673
+Read port: 38661
+1662706726150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7t6FOV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59673/devtools/browser/39c9a2cd-936f-4695-b2fb-57aaeb041c7a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 1804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662706736005	Marionette	INFO	Stopped listening on port 38661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662706753738	geckodriver	INFO	Listening on 127.0.0.1:52251
+1662706754260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOBbY1J"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706754536	Marionette	INFO	Marionette enabled
+1662706754538	Marionette	INFO	Listening on port 46445
+WebDriver BiDi listening on ws://localhost:54657
+Read port: 46445
+1662706754595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOBbY1J/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54657/devtools/browser/4d4604f6-625f-468a-bdca-a7e4a855bb03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 3832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662706768856	Marionette	INFO	Stopped listening on port 46445
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662706833279	geckodriver	INFO	Listening on 127.0.0.1:39713
+1662706833794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8BPMY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706834073	Marionette	INFO	Marionette enabled
+1662706834075	Marionette	INFO	Listening on port 40559
+WebDriver BiDi listening on ws://localhost:35087
+Read port: 40559
+1662706834133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ8BPMY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35087/devtools/browser/18352a80-8786-4cc8-8d4a-c87392c943a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 6827 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662706848868	Marionette	INFO	Stopped listening on port 40559
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662706854416	geckodriver	INFO	Listening on 127.0.0.1:43325
+1662706854940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUtptJX"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706855220	Marionette	INFO	Marionette enabled
+1662706855221	Marionette	INFO	Listening on port 37249
+WebDriver BiDi listening on ws://localhost:38113
+Read port: 37249
+1662706855279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUtptJX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38113/devtools/browser/31b2f254-5478-4722-81a9-a4a3abe57227
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 3563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 2420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662706878987	Marionette	INFO	Stopped listening on port 37249
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662706923218	geckodriver	INFO	Listening on 127.0.0.1:56469
+1662706923737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4BgAxN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706924016	Marionette	INFO	Marionette enabled
+1662706924018	Marionette	INFO	Listening on port 37153
+WebDriver BiDi listening on ws://localhost:52441
+Read port: 37153
+1662706924076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4BgAxN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52441/devtools/browser/11ab38b2-3f6a-4440-90ca-364eaa9f9407
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662706938235	Marionette	INFO	Stopped listening on port 37153
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662706941257	geckodriver	INFO	Listening on 127.0.0.1:32959
+1662706941772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8qw7zM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1662706942064	Marionette	INFO	Marionette enabled
+1662706942066	Marionette	INFO	Listening on port 38489
+WebDriver BiDi listening on ws://localhost:59193
+Read port: 38489
+1662706942124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8qw7zM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59193/devtools/browser/8272f19d-df26-44bb-80cd-6ca78248e414
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 6408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 6224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 6351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/customer-journal-5eccfe2643878fd78fd1.js, line 5: TypeError: a is undefined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/gvp-3d860edc1abcde38f018bcab664f5ac1.min.js, line 13: Error: Initializer failed to initialize component for fulfillment-add-to-cart-button-84494642. Usually this is caused by an exception in your component's client init function.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 2388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 1539 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 4043 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 814 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dMUMwKlHRkKFxm324gu_shN2JBGfr2rZRInLP1vMiqM.js line 2 > eval line 5359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/f2hplGvSOl/d8/m76FBJyv/fE7akQNGYb/OE9CMGI1/GRZ3a2x/Kaxc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662707039238	Marionette	INFO	Stopped listening on port 38489
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663772656578	geckodriver	INFO	Listening on 127.0.0.1:59833
+1663772657177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5THRdt"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663772657700	Marionette	INFO	Marionette enabled
+1663772657703	Marionette	INFO	Listening on port 35923
+WebDriver BiDi listening on ws://localhost:57935
+Read port: 35923
+1663772657861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5THRdt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57935/devtools/browser/df3dc495-d05c-4522-8c71-36f3427819a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 4172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 6105 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 3373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 1224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 6754 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 5518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 4529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 7202 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663772750955	Marionette	INFO	Stopped listening on port 35923
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663772862084	geckodriver	INFO	Listening on 127.0.0.1:57467
+1663772862603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAiKV1I"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663772862879	Marionette	INFO	Marionette enabled
+1663772862881	Marionette	INFO	Listening on port 44395
+WebDriver BiDi listening on ws://localhost:45481
+Read port: 44395
+1663772862938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAiKV1I/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45481/devtools/browser/7bf62c63-e45d-4b22-a187-fe3b6ff944e4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 1696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663772878767	Marionette	INFO	Stopped listening on port 44395
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773301010	geckodriver	INFO	Listening on 127.0.0.1:44767
+1663773301528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile847vM6"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773301851	Marionette	INFO	Marionette enabled
+1663773301853	Marionette	INFO	Listening on port 35873
+WebDriver BiDi listening on ws://localhost:35323
+Read port: 35873
+1663773301997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile847vM6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35323/devtools/browser/57597ff2-f87c-4ccb-8891-5b23ad5458ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 5112 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 4249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 5928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773339434	Marionette	INFO	Stopped listening on port 35873
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773386158	geckodriver	INFO	Listening on 127.0.0.1:43771
+1663773386676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezLm9lR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773386955	Marionette	INFO	Marionette enabled
+1663773386957	Marionette	INFO	Listening on port 44335
+WebDriver BiDi listening on ws://localhost:54077
+Read port: 44335
+1663773387014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezLm9lR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54077/devtools/browser/fbc95566-1155-448b-9caf-a4af699bd91c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 2984 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/client-a393697c018a0c18376e97e40e8aca30.mjs, line 1: ChunkLoadError: Loading chunk 550 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/550-a393697c018a0c18376e97e40e8aca30.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 3908 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773410253	Marionette	INFO	Stopped listening on port 44335
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773440666	geckodriver	INFO	Listening on 127.0.0.1:57561
+1663773441187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaerb5v"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773441464	Marionette	INFO	Marionette enabled
+1663773441466	Marionette	INFO	Listening on port 46853
+WebDriver BiDi listening on ws://localhost:39883
+Read port: 46853
+1663773441524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaerb5v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39883/devtools/browser/6d145a9a-93e7-4be1-b55a-bd69d884251d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 4139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773457063	Marionette	INFO	Stopped listening on port 46853
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773484349	geckodriver	INFO	Listening on 127.0.0.1:50641
+1663773484870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesRCPm3"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773485145	Marionette	INFO	Marionette enabled
+1663773485146	Marionette	INFO	Listening on port 40001
+WebDriver BiDi listening on ws://localhost:50207
+Read port: 40001
+1663773485203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesRCPm3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50207/devtools/browser/029526ce-cc44-4ec8-bb74-45d93bf8a58d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 6400 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/client-a393697c018a0c18376e97e40e8aca30.mjs, line 1: ChunkLoadError: Loading chunk 947 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/947-a393697c018a0c18376e97e40e8aca30.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 6766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773510192	Marionette	INFO	Stopped listening on port 40001
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773619457	geckodriver	INFO	Listening on 127.0.0.1:41583
+1663773619978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUkybDe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773620253	Marionette	INFO	Marionette enabled
+1663773620255	Marionette	INFO	Listening on port 42359
+WebDriver BiDi listening on ws://localhost:39319
+Read port: 42359
+1663773620312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUkybDe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39319/devtools/browser/aebdc566-cc46-473f-a6dc-432f76c2b21a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 4234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773634988	Marionette	INFO	Stopped listening on port 42359
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1663773670544	geckodriver	INFO	Listening on 127.0.0.1:42863
+1663773671059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevJtZmO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773671335	Marionette	INFO	Marionette enabled
+1663773671337	Marionette	INFO	Listening on port 34407
+WebDriver BiDi listening on ws://localhost:37047
+Read port: 34407
+1663773671395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevJtZmO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37047/devtools/browser/a09ced44-1438-430a-8aac-cf5bc13fca20
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 5920 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 7162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/chunks/customer-journal-d23cae6e6ae2fb734499.js, line 5: TypeError: a is undefined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/gvp-f6d3784108265f30b2d3c4a3be2e39fa.min.js, line 13: Error: Initializer failed to initialize component for fulfillment-add-to-cart-button-25886573. Usually this is caused by an exception in your component's client init function.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 7401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773715716	Marionette	INFO	Stopped listening on port 34407
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663773734102	geckodriver	INFO	Listening on 127.0.0.1:34927
+1663773734619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIZgOwm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663773734896	Marionette	INFO	Marionette enabled
+1663773734898	Marionette	INFO	Listening on port 38467
+WebDriver BiDi listening on ws://localhost:40399
+Read port: 38467
+1663773734955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIZgOwm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40399/devtools/browser/bba65d83-0a49-4ef0-ac82-f56f9bddc74f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 3415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/client-a393697c018a0c18376e97e40e8aca30.mjs, line 1: ChunkLoadError: Loading chunk 550 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/badge/dist/client/550-a393697c018a0c18376e97e40e8aca30.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 5217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 6160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 1847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 3853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 2181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 1946 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IIqf1vOd-6pW952NlRsbn4M3wW5PqZJVav1GItm6W8s.js line 2 > eval line 2342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/Eco6vUClch/cJ/Ddxc1Sm7/zaJiL6Gcp71a/Elk8RmwD/USBgBWA/gZEEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663773830129	Marionette	INFO	Stopped listening on port 38467
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664083904884	geckodriver	INFO	Listening on 127.0.0.1:42371
+1664083905415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez3uoeR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1664083905705	Marionette	INFO	Marionette enabled
+1664083905707	Marionette	INFO	Listening on port 45655
+WebDriver BiDi listening on ws://localhost:41413
+Read port: 45655
+1664083905770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez3uoeR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41413/devtools/browser/6c3908fc-3802-43df-a01b-9b7880df1f9c
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 5599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 7660 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 2127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 3822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 3904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 7005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 3868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 1398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/fulfillment/fulfillment-summary/dist/client/936-ce12b143f26c538473cd2ee7c0fba472.mjs, line 2: AbortError: Aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 7174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/IYzvA-4IwaqCCRNn2TXY/upiNN2JS/JRo_AQI/HlMw/VnVhDkMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664084003356	Marionette	INFO	Stopped listening on port 45655
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664399052282	geckodriver	INFO	Listening on 127.0.0.1:56765
+1664399052809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekIGSFk"
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: X error, error_code=2, request_code=152, minor_code=3
+[GFX1-]: glxtest: process failed (exited with status 1)
+1664399053073	Marionette	INFO	Marionette enabled
+1664399053075	Marionette	INFO	Listening on port 43151
+Read port: 43151
+WebDriver BiDi listening on ws://127.0.0.1:39477
+1664399053137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekIGSFk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39477/devtools/browser/0d943037-cb24-4371-965f-3ba78fb748db
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 3664 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 3664 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestbuy.com."
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.bestbuy.com/Y38Vsg9accJ5f/CFHooWe-duBr/yU/OLiYrpmr/UApRcXVcJg/cBFQSlo/lTlsB, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 5232 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 5232 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

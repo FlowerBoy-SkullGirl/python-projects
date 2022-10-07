@@ -92,8 +92,11 @@ while True:
 		#print("Made action chain")
 		#actions.move_to_element(elementNext).perform()
 		#print("Scrolled to element")
-			browser.execute_script("arguments[0].scrollIntoView();", elementNext)
-			time.sleep(1.5)
+			time.sleep(0.5)
+			browser.execute_script("arguments[0].scrollIntoView(true);", elementNext)
+			time.sleep(0.5)
+			browser.execute_script("window.scrollBy(1000,-150);")
+			time.sleep(0.8)
 			elementNext.click()
 		except:
 			break
